@@ -11,5 +11,5 @@ Here is what I am working on:
 - 💬 Ask me about ...Anything and I will try to help!
 - 📫 How to reach me: ...maheshnehere93#7944 (Discord username)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...I am half finished
+- ⚡ Fun fact: ...I am done with Java.:D
 -->
